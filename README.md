@@ -18,7 +18,7 @@ Build Tool: Webpack / Vite
 # Installation & Setup
 1. Clone the Repository
 
-# git clone (https://github.com/atultiwarianj/task-microfrontend.git)
+# git clone (https://github.com/atultiwarianj/task_microfrontend.git)
 cd task-microfrontend
 
 
